@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\P3_1_714230051\P3_1_714230051\bin\Debug\P3_1_714230051.exe.config
+C:\Users\DELL\source\repos\P3_1_714230051\P3_1_714230051\bin\Debug\P3_1_714230051.exe
+C:\Users\DELL\source\repos\P3_1_714230051\P3_1_714230051\bin\Debug\P3_1_714230051.pdb
+C:\Users\DELL\source\repos\P3_1_714230051\P3_1_714230051\obj\Debug\P3_1_714230051.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\P3_1_714230051\P3_1_714230051\obj\Debug\P3_1_714230051.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\P3_1_714230051\P3_1_714230051\obj\Debug\P3_1_714230051.exe
+C:\Users\DELL\source\repos\P3_1_714230051\P3_1_714230051\obj\Debug\P3_1_714230051.pdb
