@@ -1,0 +1,31 @@
+Nama: Indra Agustin
+NPM: 714230051
+Kelas: 2B
+
+Bagian 1
+
+Mengapa pesan kesalahan tersebut muncul?
+Jawaban:
+Pesan ini muncul karena variabel myType dalam kelas Product_714230051 memiliki aksesibilitas protected, yang berarti myType hanya dapat diakses oleh kelas itu sendiri atau oleh kelas turunan dari Product_714230051.
+
+Mengapa tampilan layar tidak menunjukkan apa-apa?
+Jawaban:
+Setelah dijalankan, tidak ada hasil yang ditampilkan karena myType belum diinisialisasi. Oleh karena itu, tidak ada nilai yang bisa dicetak oleh sistem, karena myType masih bernilai null.
+
+Mengapa kata tersebut muncul di layar?
+Jawaban:
+Setelah dijalankan, kata "DVD" muncul karena myType telah diinisialisasi dengan nilai "DVD", sehingga sistem menampilkannya.
+
+Bagian 2
+
+Mengapa tipe dan judul buku tidak ditampilkan? Apa konsep OOP yang menjelaskan fenomena ini?
+Jawaban:
+type dan title tidak ditampilkan karena pada konstruktor Book_714230051, hanya pageCount yang disetel, sedangkan MyType dan MyTitle di kelas induk (Product_714230051) tidak memiliki nilai. Saat DisplayInfo() dipanggil, variabel tersebut tetap kosong. Konsep OOP yang terlibat di sini adalah Inheritance dan Encapsulation.
+
+Mengapa tipe dan judul buku sekarang muncul dalam output?
+Jawaban:
+type dan title muncul karena penggunaan kata kunci base, yang memanggil konstruktor dari Product_714230051 dan mengirimkan nilai type dan title ke sana.
+
+Mengapa objek product2 tidak dibuat seperti product1 atau sesuai gambar yang ditunjukkan?
+Jawaban:
+Karena "DVD" sudah diinisialisasi di kelas DVD_714230051, maka tidak perlu lagi menginisialisasi "DVD" di kelas ProductTest_714230051.
