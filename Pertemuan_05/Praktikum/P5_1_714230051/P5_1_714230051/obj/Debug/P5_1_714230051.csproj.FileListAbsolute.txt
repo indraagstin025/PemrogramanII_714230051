@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\bin\Debug\P5_1_714230051.exe.config
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\bin\Debug\P5_1_714230051.exe
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\bin\Debug\P5_1_714230051.pdb
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\obj\Debug\P5_1_714230051.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\obj\Debug\P5_1_714230051.Form1.resources
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\obj\Debug\P5_1_714230051.Properties.Resources.resources
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\obj\Debug\P5_1_714230051.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\obj\Debug\P5_1_714230051.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\obj\Debug\P5_1_714230051.exe
+C:\Users\DELL\source\repos\P5_1_714230051\P5_1_714230051\obj\Debug\P5_1_714230051.pdb
